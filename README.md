@@ -1,16 +1,12 @@
-# seekreward
+# X-S-Store UI
 
-A new Flutter project.
+## Sample UI for X-S Store
 
-## Getting Started
+### Here is UI Figma file:
+[Click Here](https://www.figma.com/file/e8N0KZSOK3wgUmseeXLSS0/X-S-Store-UI-Kit-(Community)?node-id=166%3A6271)
 
-This project is a starting point for a Flutter application.
+## Here is Working of App:-
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://user-images.githubusercontent.com/51056125/184102275-f446aa4f-2d22-481a-af7d-986ff30badab.mp4
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
